@@ -1,9 +1,3 @@
-
-
-########## install deps
-#pip install streamlit torch torchvision openai pillow
-
-########## main app
 import streamlit as st
 from PIL import Image
 #import torch
