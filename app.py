@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 28 13:19:35 2026
 
-@author: Alex Burns
-"""
 
 ########## install deps
 #pip install streamlit torch torchvision openai pillow
