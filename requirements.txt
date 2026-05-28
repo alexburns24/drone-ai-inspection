@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May 28 13:26:31 2026
+
+@author: a806043
+"""
+
+streamlit
+torch
+torchvision
+pillow
+openai
